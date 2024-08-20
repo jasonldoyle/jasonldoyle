@@ -12,7 +12,9 @@ Check out some of my recent projects in the Pinned below ⤵️</h4>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-pandas-f7df1c?style=flat-square&logo=pandas&logoColor=black" />
   <img alt="Scikit-Learn" src="https://img.shields.io/badge/-scikitlearn-7953b3?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-be3d19?style=flat-square&logo=Matplotlib&logoColor=white" />
   <img alt="Numpy" src="https://img.shields.io/badge/-numpy-007ACC?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/-Github-f7df1c?style=flat-square&logo=Github&logoColor=black" />
   <img alt="Tableau" src="https://img.shields.io/badge/-tableau-45b8d8?style=flat-square&logo=tableau&logoColor=white" />
   <img alt="Jupyter" src="https://img.shields.io/badge/-jupyter-DD0031?style=flat-square&logo=jupyter&logoColor=white" />
   <img alt="Collab" src="https://img.shields.io/badge/-googlecolab-be3d19?style=flat-square&logo=googlecolab&logoColor=white" />
