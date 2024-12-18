@@ -22,7 +22,7 @@ Check out some of my recent projects in the Pinned below ⤵️</h4>
 
 ## A bit about me
 
-- 🎓 Currently pursuing a degree in Data Analytics for Business.
+- 🎓 Graduated with a 2:1 in Data Analytics for Business.
   
 - 💡 Passionate about Statistics and Machine Learning.
   
