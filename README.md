@@ -10,6 +10,8 @@ Check out some of my recent projects in the Pinned below ⤵️</h4>
 <h3>💼 Some of the tools that I use daily</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="SQl" src="https://img.shields.io/badge/SQl-8A2BE2?style=flat-square" />
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-Green?style=flat-square" />
   <img alt="Pandas" src="https://img.shields.io/badge/-pandas-f7df1c?style=flat-square&logo=pandas&logoColor=black" />
   <img alt="Scikit-Learn" src="https://img.shields.io/badge/-scikitlearn-7953b3?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-be3d19?style=flat-square&logo=Matplotlib&logoColor=white" />
@@ -18,6 +20,11 @@ Check out some of my recent projects in the Pinned below ⤵️</h4>
   <img alt="Tableau" src="https://img.shields.io/badge/-tableau-45b8d8?style=flat-square&logo=tableau&logoColor=white" />
   <img alt="Jupyter" src="https://img.shields.io/badge/-jupyter-DD0031?style=flat-square&logo=jupyter&logoColor=white" />
   <img alt="Collab" src="https://img.shields.io/badge/-googlecolab-be3d19?style=flat-square&logo=googlecolab&logoColor=white" />
+  <img alt="Agile" src="https://img.shields.io/badge/Agile-blue?style=flat-square" />
+
+
+
+
 </p>
 
 ## A bit about me
