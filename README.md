@@ -37,4 +37,6 @@ Check out some of my recent projects in the Pinned below ⤵️</h4>
 
 - 🌱 Actively working on personal projects that apply data analysis to solve real-world business problems.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jasonldoyle&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasonldoyle&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonldoyle)](https://github.com/jasonldoyle/github-readme-stats)
