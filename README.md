@@ -11,6 +11,7 @@ Check out some of my recent projects in the Pinned below ⤵️</h4>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img alt="SQl" src="https://img.shields.io/badge/SQl-8A2BE2?style=flat-square" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />
   <img alt="Excel" src="https://img.shields.io/badge/Excel-Green?style=flat-square" />
   <img alt="Pandas" src="https://img.shields.io/badge/-pandas-f7df1c?style=flat-square&logo=pandas&logoColor=black" />
   <img alt="Scikit-Learn" src="https://img.shields.io/badge/-scikitlearn-7953b3?style=flat-square&logo=scikitlearn&logoColor=white" />
