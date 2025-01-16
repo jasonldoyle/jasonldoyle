@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 <h3 align="center">
-Driven data analytics graduate building a strong foundation in Data Analysis, Statistical modeling, Data Visualization and Machine Learning. Proficient in tools like Excel, SQL, Python, and Tableau, and always eager to learn and tackle new challenges in the evolving world of business analytics!
-
+Driven data analytics graduate building a strong foundation in Data Analysis, Statistical modeling, Data Visualization and Machine Learning.
 ---
 
 Check out some of my recent projects in the Pinned below ⤵️</h4>
