@@ -28,7 +28,7 @@ Check out some of my recent projects in the Pinned below ⤵️</h4>
 </p>
 
 ## A bit about me
-- 🎓 Curent staging grade of 85% (1st) in Software development.
+- 🎓 Current stage grade of 85% (First) in Software Development..
   
 - 🎓 Graduated with a 2:1 in Data Analytics for Business.
   
