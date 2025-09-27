@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h3 align="center">
-Driven data analytics graduate building a strong foundation in Data Analysis, Statistical modeling, Data Visualization and Machine Learning.
+Driven data analyst building a strong foundation in Data Analysis, Statistical modeling, Data Visualization and Machine Learning.
 ---
 
 Check out some of my recent projects in the Pinned below ⤵️</h4>
@@ -28,7 +28,8 @@ Check out some of my recent projects in the Pinned below ⤵️</h4>
 </p>
 
 ## A bit about me
-
+- 🎓 Curent staging grade of 85% (1st) in Software development.
+  
 - 🎓 Graduated with a 2:1 in Data Analytics for Business.
   
 - 💡 Passionate about Statistics and Machine Learning.
